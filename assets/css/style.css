@@ -1322,7 +1322,7 @@ color: #fff;
   padding: 10px;
 }
 .coverImg {
-  background: url(http://www.jesusmaryacademy.com/assets/img/facilities-img.jpg)no-repeat center center;
+  background: url(../img/facilities-img.jpg)no-repeat center center;
     background-size: auto;
   background-size: cover !important;
   width: 100%;
